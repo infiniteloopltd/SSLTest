@@ -1,0 +1,6 @@
+c:\users\fiach\documents\visual studio 2013\Projects\SSLTest\bin\Debug\SSLTest.exe.config
+c:\users\fiach\documents\visual studio 2013\Projects\SSLTest\bin\Debug\SSLTest.exe
+c:\users\fiach\documents\visual studio 2013\Projects\SSLTest\bin\Debug\SSLTest.pdb
+c:\users\fiach\documents\visual studio 2013\Projects\SSLTest\obj\Debug\SSLTest.csprojResolveAssemblyReference.cache
+c:\users\fiach\documents\visual studio 2013\Projects\SSLTest\obj\Debug\SSLTest.exe
+c:\users\fiach\documents\visual studio 2013\Projects\SSLTest\obj\Debug\SSLTest.pdb
